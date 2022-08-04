@@ -26,5 +26,5 @@ PCL2 的代码绝大多数其实都是几年前学生时代的产物了……那
 
 **本人温馨提示**
 - PCL作者本次开源并未开源核心代码，删除了非常多的内容，以达到其他人无法编译的目的。
-- 如有志同道合者，可以加入Telegram群组： https://t.me/PCL_2_Thirdparty，计划制作PCL Visual Studio Ready且将项目转化为C#并开源，从而让PCL2维护中心成为社区。
+- 如有志同道合者，可以加入Telegram群组： https://t.me/PCL_2_Thirdparty ，计划制作PCL Visual Studio Ready且将项目转化为C#并开源，从而让PCL2维护中心成为社区。
 - PCL2的作者并未开源主题相关的代码，是因为还没有圈够钱。
